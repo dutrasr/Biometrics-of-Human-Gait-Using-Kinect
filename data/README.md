@@ -1,0 +1,1 @@
+Folder with all data that was formatted, for better manipulation, and analised.
